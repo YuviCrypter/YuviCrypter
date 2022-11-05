@@ -14,8 +14,8 @@
 </p>
 
 <h2 align="center"><b>Contact me on</b></h2>
-<p align="center">
-  <a href="https://skillicons.dev](https://www.linkedin.com/in/yuvraj-darshankar-52262622b/">
+<p align="right">
+  <a href="https://www.linkedin.com/in/yuvraj-darshankar-52262622b/">
  <img src="https://skillicons.dev/icons?i=linkedin" />
  </a>
 </p>
