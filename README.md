@@ -27,4 +27,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvicrypter&show_icons=true&locale=en&layout=compact" alt="yuvicrypter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvicrypter&" alt="yuvicrypter" /></p>
+
+<h2 align="center"><b>My Holopins</b></h2>
+
 [![@yuvicrypter's Holopin board](https://holopin.me/yuvicrypter)](https://holopin.io/@yuvicrypter)
