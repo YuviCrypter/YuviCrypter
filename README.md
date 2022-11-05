@@ -13,6 +13,8 @@
  </a>
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvicrypter" alt="yuvicrypter" /></a> </p>
+
 <h2 align="center"><b>Contact me on</b></h2>
 <p align="right">
   <a href="https://www.linkedin.com/in/yuvraj-darshankar-52262622b/">
@@ -22,8 +24,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,nodejs,react,nextjs,py,blender,figma,ps,netlify,vercel,vscode,unity,unreal&perline=5)](https://skillicons.dev) -->
  
 
-<!---
-YuviCrypter/YuviCrypter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvicrypter&show_icons=true&locale=en&layout=compact" alt="yuvicrypter" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvicrypter&" alt="yuvicrypter" /></p>
 [![@yuvicrypter's Holopin board](https://holopin.me/yuvicrypter)](https://holopin.io/@yuvicrypter)
